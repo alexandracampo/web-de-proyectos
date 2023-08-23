@@ -1,4 +1,4 @@
-# Proyecto 3. Gestor de proyectos molones
+# Bienvenidos Wow Projects.
 
 En este proyecto vamos a realizar una aplicación web que nos permite crear una página para hablar sobre un proyecto personal o un proyecto que nos mole mucho. En la página web podemos introducir los datos del proyecto y obtener una vista maquetada con esta información.
 

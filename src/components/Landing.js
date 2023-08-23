@@ -54,7 +54,7 @@ const Landing = () => {
     <div className='container'>
       <main>
         <section className="wrap--landing">
-          <h1 className="landing--title">Proyectos molones</h1>
+          <h1 className="landing--title">Wow Projects</h1>
           <p className="landing--text">Escaparate en línea para recoger ideas a través de la tecnología</p>
           <Link className="landing--link btn-large" to="/create">Nuevo proyecto</Link>
         </section>

@@ -4,7 +4,7 @@ const Header = ({ icon1, adalab }) => {
     <header className='header'>
       <div className='header--div'>
         <img className='header--img' src={icon1} alt='icono' />
-        <p className='header--text'>Proyectos Molones</p>
+        <p className='header--text'>Wow Projects</p>
       </div>
       <img className='header--img-adalab' src={adalab} alt='logo adalab' />
     </header>
