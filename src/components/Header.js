@@ -1,12 +1,11 @@
-const Header = ({ icon1, adalab }) => {
+const Header = ({ iconRocket }) => {
 
   return (
     <header className='header'>
       <div className='header--div'>
-        <img className='header--img' src={icon1} alt='icono' />
-        <p className='header--text'>Wow Projects</p>
+        <img className='header--img' src={iconRocket} alt='icono' />
+        <p className='header--text'> Wow Projects</p>
       </div>
-      <img className='header--img-adalab' src={adalab} alt='logo adalab' />
     </header>
   )
 }
