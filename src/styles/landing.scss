@@ -27,6 +27,11 @@
   text-align: justify;
   width: 17rem;
   margin-bottom: 2rem;
+
+  @include tablet {
+    width: 22rem;
+    font-size: 1.2rem;
+  }
 }
 .landing--link {
   text-decoration: none;
@@ -43,6 +48,13 @@
   &:hover {
     color: black;
     font-weight: 600;
+  }
+
+  @include tablet {
+    width: 220px;
+    height: 50px;
+    font-size: 1.1rem;
+    padding-top: 12px;
   }
 }
 
