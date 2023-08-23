@@ -55,7 +55,7 @@ const Landing = () => {
       <main>
         <section className="wrap--landing">
           <h1 className="landing--title">Wow Projects</h1>
-          <p className="landing--text">Escaparate en línea para recoger ideas a través de la tecnología</p>
+          <p className="landing--text">Crea tu portfolio sin preocuparte de nada más. Aquí podrás publicar tus proyectos y compartirlos con quien tú quieras de una forma rápida y cómoda.</p>
           <Link className="landing--link btn-large" to="/create">Nuevo proyecto</Link>
         </section>
         <section>
